@@ -14,13 +14,13 @@ You will learn how to:
 
 ## 🛠️ Setup Instructions
 
-### 1. Install Prerequisites
+### Install Prerequisites
 - [MongoDB Community Edition](https://www.mongodb.com/try/download/community)  
 - [MongoDB Shell (mongosh)](https://www.mongodb.com/docs/mongodb-shell/)  
 - [Node.js (v18 or higher)](https://nodejs.org/)  
 - [MongoDB Compass](https://www.mongodb.com/products/compass) (optional GUI tool)  
 
-### 2. Verify Installation
+###  Verify Installation
 Check versions:
 ```bash
 mongod --version
@@ -28,7 +28,7 @@ mongosh --version
 node -v
 npm -v
 
-3. Start MongoDB Server
+### Start MongoDB Server
 
 Open a terminal and run:
 
@@ -37,7 +37,7 @@ mongod
 
 This starts the MongoDB server at mongodb://127.0.0.1:27017.
 
-4. Connect to MongoDB
+### Connect to MongoDB
 
 In another terminal:
 
@@ -99,7 +99,7 @@ Updates and deletions confirmed
 Aggregated results (e.g., average prices, most common author)
 
 
-📸 Screenshot
+### 📸 Screenshot
 
 Include a screenshot of your MongoDB Compass or Atlas dashboard showing:
 
@@ -111,7 +111,7 @@ Some sample documents
 
 Save it as screenshot.png.
 
-✅ Submission
+### ✅ Submission
 
 Push the following to your GitHub Classroom repo:
 
@@ -131,7 +131,7 @@ git add .
 git commit -m "Week 1 Mern Assignment"
 git push origin main
 
-📚 Resources
+### 📚 Resources
 
 MongoDB Documentation
 

@@ -137,7 +137,7 @@ screenshot.png
 Commit and push:
 
 git add .
-git commit -m "MongoDB Week 1 Assignment"
+git commit -m "Week 1  Mern Assignment"
 git push origin main
 
 📚 Resources

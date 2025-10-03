@@ -1,37 +1,28 @@
-📚 MongoDB Fundamentals – Week 1 Assignment
-🚀 Overview
+# 📚 MongoDB Fundamentals – Week 1 Assignment
 
-This project demonstrates MongoDB fundamentals by building a simple bookstore database.
+## 🚀 Overview
+This project demonstrates MongoDB fundamentals by building a simple **bookstore database**.  
 You will learn how to:
+- Install and set up MongoDB Community Edition
+- Create databases and collections
+- Perform **CRUD operations** (Create, Read, Update, Delete)
+- Write advanced queries with filters, projections, sorting, and pagination
+- Use **aggregation pipelines** for analytics
+- Implement **indexes** for performance optimization
 
-Install and set up MongoDB Community Edition
+---
 
-Create databases and collections
+## 🛠️ Setup Instructions
 
-Perform CRUD operations (Create, Read, Update, Delete)
+### 1. Install Prerequisites
+- [MongoDB Community Edition](https://www.mongodb.com/try/download/community)  
+- [MongoDB Shell (mongosh)](https://www.mongodb.com/docs/mongodb-shell/)  
+- [Node.js (v18 or higher)](https://nodejs.org/)  
+- [MongoDB Compass](https://www.mongodb.com/products/compass) (optional GUI tool)  
 
-Write advanced queries with filters, projections, sorting, and pagination
-
-Use aggregation pipelines for analytics
-
-Implement indexes for performance optimization
-
-🛠️ Setup Instructions
-1. Install Prerequisites
-
-MongoDB Community Edition
-
-MongoDB Shell (mongosh)
-
-Node.js (v18 or higher)
-
-MongoDB Compass
- (optional GUI tool)
-
-2. Verify Installation
-
+### 2. Verify Installation
 Check versions:
-
+```bash
 mongod --version
 mongosh --version
 node -v
@@ -137,7 +128,7 @@ screenshot.png
 Commit and push:
 
 git add .
-git commit -m "Week 1  Mern Assignment"
+git commit -m "Week 1 Mern Assignment"
 git push origin main
 
 📚 Resources
